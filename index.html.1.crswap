@@ -1,0 +1,31 @@
+<html lang="pt-br"> 
+<head>
+
+    <link rel="stylesheet" href="style.css" />
+    <title>alura flix</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=New+Amsterdam&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<header>XMEN EVOLUTION </header>
+<section>
+
+<div class="chamada-texto"> 
+<h1>X Men Evolution Episodio.1 A Estratégia X<h1>
+<p>x-men evolution brasil</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_72VbN96nEw?si=xxiUUEhUVsh3j3H9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</section>
+
+
+<section>
+    <h2>x-men desenhos, series e filmes</h2>
+    <div>
+        <
+        <img scrc="https://img.youtube.com/vi/0GKW3pErWdE/maxresdefault.jpg" />
+    </div>
+</section>
+
+
